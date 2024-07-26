@@ -1,0 +1,2 @@
+# Tkinter is included with Python and does not require installation via pip
+# No additional packages are required for this app
